@@ -16,7 +16,7 @@ adorar. E chegou o momento da entrega dos presentes.
 Vovó Joana sentou-se nuna cadeira de balanço e de dentro de um grande
 saco no chão ia tirando e distribuindo os pacotinhos.
 
-- Joãozinho, Ritinha, Bia.
+\- Joãozinho, Ritinha, Bia.
 
 - Cada criança que recebia ficava muito alegre e logo a casa encheu-se
   de sorrisos e risadas.
