@@ -18,13 +18,13 @@ saco no chão ia tirando e distribuindo os pacotinhos.
 
 \- Joãozinho, Ritinha, Bia.
 
-- Cada criança que recebia ficava muito alegre e logo a casa encheu-se
+\- Cada criança que recebia ficava muito alegre e logo a casa encheu-se
   de sorrisos e risadas.
 
 Nem mesmo vovó havia se levantado de sua cadeira quando Clarinha, uma
 de suas netas, falou
 
-- E eu vovó?
+\- E eu vovó?
 
 Vovó Joana não compreendeu muito bem. Como "e eu" ?  Clarinha não
 ganhara presente? Não era possivel. Ela andava meio esquecida, mas
@@ -43,18 +43,18 @@ tristeza.
 Foi quando Ritinha, separando-se das outras crianças, seguiu Clarinha
 e entrando no quarto abraçou-a e lhe disse
 
-- Serenos nós duas a mãe desta boneca.
+\- Serenos nós duas a mãe desta boneca.
 
 Clarinha olhou espantada sem saber o que dizer. Ritinha continuou:
 
-- Eu darei a mamadeira, você dará a comidinha. Eu a levarei para
+\- Eu darei a mamadeira, você dará a comidinha. Eu a levarei para
 passear, mas para isso ela precisará tomar um banho - você não quer
 dar?
 
 E, mais que depressa, entregou a boneca nos braços
 de Clarinha que já não mais chorava.
 
-- Vovó. Precisamos de uma bacia com água, sabonete,
+\- Vovó. Precisamos de uma bacia com água, sabonete,
 talco, toalha...
 
 Havia ainda uma única láigrima escorrendo em seu rosto, quando
