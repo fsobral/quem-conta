@@ -1,9 +1,11 @@
 Índice
 ======
 
-[Introdução (1988)](Introdução-(1988))
+[Introdução (1988)](#introducao-1988)
 
-[Introdução recente](Introdução)
+[Introdução recente](#introducao)
+
+Estórias
 
 <ul>
   {% for post in site.posts %}
@@ -13,7 +15,7 @@
   {% endfor %}
 </ul>
 
-Introdução (1988)
+Introdução (1988) <A ID="introducao-1988"></A>
 =========
 
 Estamos convocando os interessados em orientar, educar ou auxiliar
@@ -58,7 +60,7 @@ Ajudando as crianças, ajudamo-nos uns aos outros.
 
 Obrigada,
 
-Introdução
+Introdução <A ID="introducao"></A>
 ==========
 
 Esta nova versão do projeto foi colocada no Github, para que possa
