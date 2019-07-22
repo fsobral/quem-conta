@@ -1,13 +1,28 @@
-INTRODUÇÃO
+Índice
+======
+
+[Introdução (1988)](Introdução-(1988))
+
+[Introdução recente](Introdução)
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+Introdução (1988)
 =========
 
 Estamos convocando os interessados em orientar, educar ou auxiliar
-espiritualmente as crianças pequenas — de nosso convívio, para que
+espiritualmente as crianças pequenas - de nosso convívio, para que
 participem desta coletânea de obras (textos, estórias, estórias em
 quadrinhos, contos, desenhos, preces ou músicas), dedicadas às
 crianças a partir de 2 anos.
 
-O "QUEM CONTA UM CONTO, AUMENTA UM CONTO", a prin- cípio, consiste em
+O "QUEM CONTA UM CONTO, AUMENTA UM CONTO", a princípio, consiste em
 reunir estas obras para que sejam transmitidas aos pequeninos e para
 isto, devem ser curtas e de fácil compreensão, numa linguagem simples
 e clara.
@@ -42,3 +57,11 @@ eles.
 Ajudando as crianças, ajudamo-nos uns aos outros.
 
 Obrigada,
+
+Introdução
+==========
+
+Esta nova versão do projeto foi colocada no Github, para que possa
+crescer de forma colaborativa, através de *pull requests* no projeto.
+
+Todo o conteúdo é disponibilizado gratuitamente sem direitos autorais.
