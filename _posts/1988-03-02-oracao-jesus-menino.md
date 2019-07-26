@@ -1,12 +1,11 @@
 ---
 title: "Oração ao Jesus menino"
 layout: post
+author: Olga
 ---
 
 Oração ao Jesus menino
 ======================
-
-**Olga 02/03/88**
 
 Peço a Jesus menino  
 Que esteja sempre ao meu lado  
