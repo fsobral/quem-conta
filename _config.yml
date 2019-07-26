@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 title: "Quem conta um conto aumenta um conto"
 logo: /assets/logo.png
+
+baseurl: /quem-conta
