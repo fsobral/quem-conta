@@ -1,6 +1,5 @@
 ---
 title: "Presente de Natal"
-layout: post
 author: Totô
 ---
 
