@@ -5,6 +5,8 @@
 
 [Introdução recente](#introducao)
 
+[Licença](#licenca)
+
 Estórias
 
 <ul>
@@ -66,4 +68,10 @@ Introdução <A ID="introducao"></A>
 Esta nova versão do projeto foi colocada no Github, para que possa
 crescer de forma colaborativa, através de *pull requests* no projeto.
 
-Todo o conteúdo é disponibilizado gratuitamente sem direitos autorais.
+<a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença
+Creative Commons" style="border-width:0"
+src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br
+/>Esta obra está licenciada com uma Licença <a rel="license"
+href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+Atribuição 4.0 Internacional</a>.
