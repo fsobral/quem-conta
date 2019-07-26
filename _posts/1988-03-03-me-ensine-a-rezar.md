@@ -8,14 +8,14 @@ Todas as noites, Rogério acordava e era aquela choradeira:
 
 \- Mamãe, mamãe!
 
-Sua mãe levantava depressa e ia acudir o menino 
+Sua mãe levantava depressa e ia acudir o menino. 
 
 \- O que foi Rogério? O que está acontecendo? - perguntava ela.
 
 \- Eu tive um sonho ruim, mamãe, um sonho muito feio, respondia
 Rogério, sem parar de chorar.
 
-- Ora Rogério, que bobagem! Foi porque você comeu muito bolo no jantar
+\- Ora Rogério, que bobagem! Foi porque você comeu muito bolo no jantar
 que você teve esse sonho ruim. Esqueça dele! Olhe, mamãe vai lhe
 trazer um copo de água bem fresquinha, você vai deitar de novo e vai
 ver que não vai mais sonhar coisas feias.
