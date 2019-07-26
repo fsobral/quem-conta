@@ -1,8 +1,11 @@
+---
+title: "Oração ao menino Jesus"
+layout: post
+author: Kiko (3 anos de idade)
+---
+
 Oração ao menino Jesus
 ======================
-
-**Kiko dez./87**
-(3 anos de idade)
 
 Menino Jesus:
 

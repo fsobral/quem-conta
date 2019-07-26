@@ -1,12 +1,11 @@
 ---
 title: "Presente de Natal"
 layout: post
+author: Totô
 ---
 
 Presente de Natal
 ===
-
-**Totô 22/02/88**
 
 Era noite de Natal.
 
