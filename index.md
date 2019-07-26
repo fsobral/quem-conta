@@ -5,8 +5,6 @@
 
 [Introdução recente](#introducao)
 
-[Licença](#licenca)
-
 Estórias
 
 <ul>
@@ -65,8 +63,10 @@ Obrigada,
 Introdução <A ID="introducao"></A>
 ==========
 
-Esta nova versão do projeto foi colocada no Github, para que possa
-crescer de forma colaborativa, através de *pull requests* no projeto.
+Esta nova versão do projeto foi colocada no Github por Francisco
+Sobral, filho da idealizadora da proposta. Essa nova proposta permite
+que o projeto continue a crescer de uma forma colaborativa mais
+moderna, através de *pull requests* no projeto.
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença
