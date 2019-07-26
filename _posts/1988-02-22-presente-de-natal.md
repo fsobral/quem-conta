@@ -4,9 +4,6 @@ layout: post
 author: Totô
 ---
 
-Presente de Natal
-===
-
 Era noite de Natal.
 
 Vovó Joana tinha trabalhado o ano todo levando roupa para fora o

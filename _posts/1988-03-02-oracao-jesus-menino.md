@@ -4,9 +4,6 @@ layout: post
 author: Olga
 ---
 
-Oração ao Jesus menino
-======================
-
 Peço a Jesus menino  
 Que esteja sempre ao meu lado  
 E que enquanto sou pequenino  
