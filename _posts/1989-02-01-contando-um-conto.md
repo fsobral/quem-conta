@@ -7,7 +7,7 @@ tag: Música
 
 **Mairiporã - SP**
 
-![Partitura](/assets/1989-02-01-contando-um-conto.png)
+![Partitura]({{ site.baseurl }}/assets/1989-02-01-contando-um-conto.png)
  
 Contei, contei  
 e ganhei,  
