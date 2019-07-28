@@ -2,7 +2,7 @@
 title: "Contando um conto"
 layout: post
 author: Tereza
-tag: Música
+tag: [Música]
 ---
 
 **Mairiporã - SP**
