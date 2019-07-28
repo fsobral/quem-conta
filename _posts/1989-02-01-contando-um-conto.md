@@ -16,7 +16,7 @@ sempre aumenta um conto.
 
 Espero e almejo  
 você colaborar,  
-contando con certeza  
+contando com certeza  
 um conto ganhará.  
 
 Contei, contei  
