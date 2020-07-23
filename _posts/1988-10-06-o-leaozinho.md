@@ -2,7 +2,7 @@
 title: "O leãozinho"
 layout: post
 author: Carlinhos
-tag: [Estória]
+tag: [História]
 ---
 
 **Cunha - SP**

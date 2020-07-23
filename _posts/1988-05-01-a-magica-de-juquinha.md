@@ -2,7 +2,7 @@
 title: "A mágica de Juquinha"
 layout: post
 author: Roseli
-tag: [Estória]
+tag: [História]
 ---
 
 **São Paulo - SP**

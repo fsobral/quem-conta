@@ -2,7 +2,7 @@
 title: "Orando pelo nosso mundo"
 layout: post
 author: Totô
-tag: [Estória]
+tag: [História]
 ---
 
 Certo dia, eu e meus filhos fomos ao fundo do quintal onde existem

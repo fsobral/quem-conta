@@ -2,7 +2,7 @@
 title: "Uma estrela"
 layout: post
 author: Paulinho
-tag: [Estória]
+tag: [História]
 ---
 
 **Cunha - SP**
