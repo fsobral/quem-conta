@@ -44,16 +44,26 @@ Pedrinho tinha nascido no dia de São Pedro. Todos iam comparecer à
 festança em sua homenagem que ia ser dada lá no sítio. Ia ter milho
 verde, pipoca, quentão, fogos e iam soltar um lindo balão!
 
-Na hora "h", Chinesinho se apavorou.  Que medo!  Como fazer para evitar o inevitável?  Viu tio Juca desdobrá-lo cuidadosamente e dar um assoprão para que ele tomasse forma.  Ouviu o riscar do fósforo na caixinha.  Sentiu o calorzinho do fogo se aproximando...  Fechou os olhos, desesperado...
+Na hora "h", Chinesinho se apavorou.  Que medo!  Como fazer para
+evitar o inevitável?  Viu tio Juca desdobrá-lo cuidadosamente e dar um
+assoprão para que ele tomasse forma.  Ouviu o riscar do fósforo na
+caixinha.  Sentiu o calorzinho do fogo se aproximando...  Fechou os
+olhos, desesperado...
 
-Foi quando ouviu a voz estridente de Pedrinho, menino ainda, reclamando:
+Foi quando ouviu a voz estridente de Pedrinho, menino ainda, reclamando:  
+- Não quero que soltem meu balão.  
+- Como assim, menino?  Balão é prá soltar. É prá olhar no alto.  
+- Mas o meu balão, lindo assim, eu quero olhar todo dia e não só
+  agora. Quero dependurar meu balão no teto do meu quarto, assim ele
+  fica no alto, como todo balão e enfeita o lugar.  Vou pendurar perto
+  daquelas estrelas que as tias puseram na parede.  Assim ele pensa
+  que está no céu.
 
-- Não quero que soltem meu balão.
+Chinesinho não podia acreditar no que estava ouvindo.  Era bom demais
+para ser verdade.  Ele não ia queimar nada, nem maltratar ninguém.  Só
+ia ser lindo, útil e feliz.
 
-- Como assim, menino?  Balão é prá soltar. É prá olhar no alto.
-
-- Mas o meu balão, lindo assim, eu quero olhar todo dia e não só agora. Quero dependurar meu balão no teto do meu quarto, assim ele fica no alto, como todo balão e enfeita o lugar.  Vou pendurar perto daquelas estrelas que as tias puseram na parede.  Assim ele pensa que está no céu.
-
-Chinesinho não podia acreditar no que estava ouvindo.  Era bom demais para ser verdade.  Ele não ia queimar nada, nem maltratar ninguém.  Só ia ser lindo, útil e feliz.
-
-Se você for lá no quarto do Pedrinho, até hoje pode encontrar Chinesinho dependurado no teto, pertinho das estrelas. Já está meio descolorido e sem tocha no bumbum.  Mas é o balão mais lindo e mais feliz do mundo!
+Se você for lá no quarto do Pedrinho, até hoje pode encontrar
+Chinesinho dependurado no teto, pertinho das estrelas. Já está meio
+descolorido e sem tocha no bumbum.  Mas é o balão mais lindo e mais
+feliz do mundo!
