@@ -51,9 +51,9 @@ caixinha.  Sentiu o calorzinho do fogo se aproximando...  Fechou os
 olhos, desesperado...
 
 Foi quando ouviu a voz estridente de Pedrinho, menino ainda, reclamando:  
-- Não quero que soltem meu balão.  
-- Como assim, menino?  Balão é prá soltar. É prá olhar no alto.  
-- Mas o meu balão, lindo assim, eu quero olhar todo dia e não só
+\- Não quero que soltem meu balão.  
+\- Como assim, menino?  Balão é prá soltar. É prá olhar no alto.  
+\- Mas o meu balão, lindo assim, eu quero olhar todo dia e não só
   agora. Quero dependurar meu balão no teto do meu quarto, assim ele
   fica no alto, como todo balão e enfeita o lugar.  Vou pendurar perto
   daquelas estrelas que as tias puseram na parede.  Assim ele pensa
